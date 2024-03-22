@@ -17,10 +17,10 @@
     </head>
     <body class="antialiased">
     <div class="container">
-        <h1>Welcome to My PHP Page</h1>
+        <h1>PHP code</h1>
         <?php
             // PHP code to display a message
-            echo "<p>This text is generated using PHP!</p>";
+            echo "<p>Eh già, puoi scrivere sul front-end con php!</p>";
         ?>
     </div>
         <div class="relative sm:flex sm:justify-center sm:items-center min-h-screen bg-dots-darker bg-center bg-gray-100 dark:bg-dots-lighter dark:bg-gray-900 selection:bg-red-500 selection:text-white">
